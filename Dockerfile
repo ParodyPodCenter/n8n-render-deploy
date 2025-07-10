@@ -7,7 +7,7 @@ COPY ./custom-nodes /data/custom-nodes
 COPY package.json /data/package.json
 
 # Instalar dependencias (custom nodes)
-RUN npm install --prefix /data
+
 
 # Expone el puerto por defecto de n8n
 EXPOSE 5678
