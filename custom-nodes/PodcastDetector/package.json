@@ -1,0 +1,6 @@
+{
+  "name": "podcastdetector",
+  "version": "1.0.0",
+  "description": "Detecta y analiza los podcasts virales.",
+  "main": "index.js"
+}

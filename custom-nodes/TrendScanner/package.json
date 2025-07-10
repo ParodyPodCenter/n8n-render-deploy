@@ -1,0 +1,6 @@
+{
+  "name": "trendscanner",
+  "version": "1.0.0",
+  "description": "Escanea TikTok y otras redes para detectar tendencias actuales.",
+  "main": "index.js"
+}

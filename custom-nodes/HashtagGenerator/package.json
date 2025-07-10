@@ -1,0 +1,6 @@
+{
+  "name": "hashtaggenerator",
+  "version": "1.0.0",
+  "description": "Genera hashtags adecuados basados en el contenido.",
+  "main": "index.js"
+}

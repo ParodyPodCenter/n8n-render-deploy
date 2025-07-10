@@ -1,0 +1,6 @@
+{
+  "name": "asmrpicker",
+  "version": "1.0.0",
+  "description": "Detecta si es mejor usar ASMR o gameplay como fondo visual.",
+  "main": "index.js"
+}

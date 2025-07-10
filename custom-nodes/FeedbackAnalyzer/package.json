@@ -1,0 +1,6 @@
+{
+  "name": "feedbackanalyzer",
+  "version": "1.0.0",
+  "description": "Analiza interacciones para entender qué funciona.",
+  "main": "index.js"
+}

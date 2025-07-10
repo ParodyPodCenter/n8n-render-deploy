@@ -1,0 +1,6 @@
+{
+  "name": "autorefiner",
+  "version": "1.0.0",
+  "description": "Ajusta parámetros de contenido basándose en retroalimentación.",
+  "main": "index.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "scriptgenerator",
+  "version": "1.0.0",
+  "description": "Genera el guión en base al tema detectado.",
+  "main": "index.js"
+}

@@ -1,0 +1,10 @@
+
+{
+  "name": "n8n-custom",
+  "version": "1.0.0",
+  "description": "Custom n8n with multiple personalized nodes",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "puppeteer": "^21.3.8"
+  }
+}

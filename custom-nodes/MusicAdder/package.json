@@ -1,0 +1,6 @@
+{
+  "name": "musicadder",
+  "version": "1.0.0",
+  "description": "Agrega música viral relevante al fondo del video.",
+  "main": "index.js"
+}

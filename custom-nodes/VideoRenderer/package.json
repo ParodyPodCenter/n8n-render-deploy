@@ -1,0 +1,6 @@
+{
+  "name": "videorenderer",
+  "version": "1.0.0",
+  "description": "Crea el video animado con subtítulos y visuales.",
+  "main": "index.js"
+}

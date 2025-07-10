@@ -1,0 +1,6 @@
+{
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "Publica el video automáticamente en redes sociales.",
+  "main": "index.js"
+}
