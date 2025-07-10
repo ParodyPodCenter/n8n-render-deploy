@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: n8n
-    env: docker
-    plan: free
-    repo: https://github.com/ParodyPodCenter/n8n-render-deploy
-    dockerfilePath: ./Dockerfile
-    autoDeploy: true
