@@ -1,4 +1,5 @@
-FROM n8nio/n8n
+FROM n8nio/n8n:latest
+
 
 # Copiar los custom nodes (ajusta si tu estructura es diferente)
 COPY ./custom-nodes /data/custom-nodes
