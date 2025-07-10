@@ -1,4 +1,5 @@
-FROM n8nio/n8n
+FROM node:18-alpine
+
 
 COPY ./custom-nodes /data/custom-nodes
 
